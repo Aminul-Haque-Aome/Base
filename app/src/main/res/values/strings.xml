@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CareTutor</string>
+
+    <string name="caretutors_logo_image">CareTutors logo image</string>
+    <string name="caretutors_logo_text">CareTutors logo text</string>
+    <string name="tr_name_logo_image">logo_image</string>
+    <string name="tr_name_logo_text">logo_text</string>
+
+</resources>

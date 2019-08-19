@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="160dp"
+    android:background="@color/colorPrimary"
+    android:gravity="center"
+    android:orientation="horizontal">
+
+    <ImageView
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_gravity="center"
+        android:contentDescription="@string/caretutors_logo_image"
+        android:src="@drawable/caretutors_logo_pic"
+        android:transitionName="@string/tr_name_logo_image" />
+
+    <ImageView
+        android:layout_width="128dp"
+        android:layout_height="32dp"
+        android:layout_gravity="center"
+        android:layout_marginStart="8dp"
+        android:contentDescription="@string/caretutors_logo_text"
+        android:src="@drawable/caretutors_logo_text"
+        android:transitionName="@string/tr_name_logo_text"/>
+
+</LinearLayout>
